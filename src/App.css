@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.right{
+    display: flex;
+    float:right;
+    flex-direction: column;
+    margin: 5px;
+    padding: 0;
+    
+}
+.left{
+    padding-top: 120px;
+    padding-bottom: 20px;
+}
+.main{
+    background-color: rgb(140, 137, 137);
+    padding: 10px;
+    margin: 100px;
+    border: none;
+}
+.table{
+    width: 100%;  
+    
+}
+
+table,th,td{
+    
+    text-align: center;
+    
+}
